@@ -1,26 +1,26 @@
-# QR Code Generator 🔳
+# Resume Website 📄💼
 
-A simple static website that generates QR codes using HTML, CSS, and JavaScript.  
-This project demonstrates dynamic QR code generation, responsive design, and easy deployment with GitHub Pages.
+A personal resume website built with HTML, CSS, and JavaScript.  
+This project serves as a digital portfolio and resume, showcasing professional details, skills, and contact information. It is lightweight, responsive, and deployed using GitHub Pages.
 
 ---
 
 ## 🚀 Live Demo
 Check out the live version here:  
-👉 [QR Code Generator Website](https://md-moklesar-rahman-bappy.github.io/QR-Code-Generator/)
+👉 [Resume Website](https://md-moklesar-rahman-bappy.github.io/resume-website/)
 
 ---
 
 ## 📂 Repository
-GitHub Repository: [QR-Code-Generator](https://github.com/Md-Moklesar-Rahman-Bappy/QR-Code-Generator.git)
+GitHub Repository: [resume-website](https://github.com/Md-Moklesar-Rahman-Bappy/resume-website.git)
 
 ---
 
 ## ✨ Features
-- Generate QR codes instantly from user input  
+- Clean and professional resume layout  
 - Responsive design for desktop and mobile devices  
+- Sections for **About, Skills, Experience, Education, Projects, Contact**  
 - Lightweight and fast loading  
-- Easy to customize and extend  
 - Hosted on GitHub Pages  
 
 ---
@@ -28,8 +28,7 @@ GitHub Repository: [QR-Code-Generator](https://github.com/Md-Moklesar-Rahman-Bap
 ## 🛠️ Technologies Used
 - **HTML5** – Structure and content  
 - **CSS3** – Styling and layout  
-- **JavaScript** – QR code generation and interactivity  
-- **QR Code API/Library** – For generating QR codes dynamically  
+- **JavaScript** – Interactivity and dynamic behavior  
 
 ---
 
@@ -38,10 +37,12 @@ To run this project locally:
 
 1. **Clone the repository:**
 ```bash
-   git clone https://github.com/Md-Moklesar-Rahman-Bappy/QR-Code-Generator.git
+   git clone https://github.com/Md-Moklesar-Rahman-Bappy/resume-website.git
 ```
 2. **Navigate into the project folder:**
-
+```bash
+   cd resume-website
+```
 3. **Open  in your browser.**
 
 ## 🌍 Deployment
@@ -54,7 +55,7 @@ To deploy your own version:
 
 
 ## 📸 Screenshots
-Add screenshots or GIFs of your QR code generator in action here for better presentation.
+Add screenshots of your resume website here for better presentation.
 
 ## 🤝 Contributing
 Contributions are welcome!
