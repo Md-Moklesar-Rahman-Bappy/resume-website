@@ -37,12 +37,12 @@ GitHub Repository: [QR-Code-Generator](https://github.com/Md-Moklesar-Rahman-Bap
 To run this project locally:
 
 1. **Clone the repository:**
-   ```bash
+```bash
    git clone https://github.com/Md-Moklesar-Rahman-Bappy/QR-Code-Generator.git
-   ```
-2. 	**Navigate into the project folder:**
+```
+2. **Navigate into the project folder:**
 
-3. 	**Open  in your browser.**
+3. **Open  in your browser.**
 
 ## 🌍 Deployment
 This project is deployed using GitHub Pages.
